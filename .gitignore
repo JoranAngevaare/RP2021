@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+
+data/*
+RP2021.egg-info
+.eggs
+
