@@ -1,0 +1,12 @@
+jupyter
+numba
+numpy
+matplotlib
+pandas
+uproot
+uproot3
+scipy
+pyarrow
+fastparquet
+awkward
+tqdm
