@@ -13,7 +13,7 @@ with open('HISTORY.md') as file:
     history = file.read()
 
 setuptools.setup(name='RP2021',
-                 version='0.0.0',
+                 version='0.0.1',
                  description='Research practicum 2021',
                  author='Joran Angevaare',
                  url='https://github.com/jorana/RP2021',
