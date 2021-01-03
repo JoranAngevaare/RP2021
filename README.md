@@ -19,7 +19,12 @@ prof. A.P. Colijn <A.P.Colijn@uva.nl>
 # Help I'm stuck; how to ask questions?
 Normally we'd be around for you to ask questions, but this is unfortunately not possible. This however shouldn't be a threshold for you to ask questions if you are stuck. You can either email the supervises as detailed above or reach out for Joran on gitter (https://gitter.im, search for User JoranA). We can also organize a zoom session whenever needed.
 
+# Downloading data
+Some of the folders require more data than we can upload to github. The supervisors will provide a link wherefrom students can download additional data.
+
 # Structure of this package
+Below one can find a list of all the folders in this repository. Some of these folders are meant for the students (most of them actually) whereas some of the folders are meant for the supervisors in order to allow easy acces to the data.
+
 | Folder                        | Function          |
 | ---------                     | ---------         |
 | `00_getting_started`          | Getting students started   |
