@@ -21,6 +21,7 @@ Normally we'd be around for you to ask questions, but this is unfortunately not 
 
 # Structure of this package
 | Folder                        | Function          |
+| ---------                     | ---------         |
 | `00_getting_started`          | Getting students started   |
 | `01_coincidence_measurements` | First level of analysis for students |
 | `02_future_work`              | List of possible next steps |
